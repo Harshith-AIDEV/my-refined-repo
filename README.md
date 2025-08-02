@@ -8,6 +8,7 @@ This repository contains beginner-level Python projects I wrote while learning G
 - `temperature_converter.py` – Converts Celsius ↔ Fahrenheit
 - `simple_mood_check.py` – Prints responses based on mood
 - `turtle_hello_gui.py` – Basic Turtle graphics GUI (if supported)
+- 'mini weather predictor' - Entering temperature it gives us as suggestions by predicting how weather will be outside
 ## Notes
 - 'README.md' - project summary
 - 'GIT_SETUP_NOTES.md' - my personal git setup journey
